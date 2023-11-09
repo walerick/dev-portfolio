@@ -1,0 +1,2 @@
+(this["webpackJsonpdev-portfolio"]=this["webpackJsonpdev-portfolio"]||[]).push([[8],{67:function(t,e,o){"use strict";o.r(e);o(0),o(69);var s=o(1);e.default=function(t){const{title:e}=t;return Object(s.jsx)("div",{className:"header",children:e})}}}]);
+//# sourceMappingURL=8.ecf89a01.chunk.js.map
