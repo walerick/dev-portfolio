@@ -1,6 +1,6 @@
 {
-  "name": "portfolio-app",
-  "homepage": "https://walerick.github.io/portfolio-app",
+  "name": "dev-portfolio",
+  "homepage": "https://walerick.github.io/dev-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
